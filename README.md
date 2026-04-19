@@ -30,3 +30,4 @@ Conforme as regras de integridade intelectual da disciplina:
 - **Sistema de Sombras (Ghost System):** A lógica de gravação de rastro (`PathHistory`) e o atraso incremental para evitar sobreposição foram desenvolvidos com auxílio de assistência de IA (Gemini), adaptando conceitos de *Input Buffering* para Unity.
 - **Scripts de UI e Controle de Jogo:** Estrutura baseada no tutorial "Introdução Rápida" fornecido em aula, com expansões para variáveis estáticas e persistência de dados.
 - **Assets de Áudio:** O áudio de coleta de moedas foi feita no site https://sfxr.me/ e a criação da música principal do jogo foi feita em https://suno.com/create, e está acessível em: https://suno.com/s/rLqsoaoHJGkLIlaP.
+- **Assets Visuais** O asset do carro foi o único não gerado por IA e foi selecionado dentro do bundle: https://craftpix.net/freebies/free-racing-game-kit/
